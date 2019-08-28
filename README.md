@@ -7,9 +7,9 @@
 
 *More examples and platforms support for Cortex will be added over the next few months.*
 
-*Cortex examples: https://github.com/Emotiv/cortex-example*
+*Cortex examples: https://github.com/Emotiv/cortex-v2-example*
 
-*Cortex API docs: https://github.com/Emotiv/cortex-docs*
+*Cortex API docs: https://emotiv.gitbook.io/cortex-api*
 
 ---
 
